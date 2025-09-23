@@ -155,7 +155,7 @@ Annotation	Purpose	When to Use
 
 8. Example with Both
 #############################
-    
+
 @Service
 @Primary
 public class EmailService implements MessageService { ... }
